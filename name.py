@@ -1,0 +1,1 @@
+name = print("Escribe tu nombre bro:")
